@@ -1,8 +1,5 @@
 # ============================================================
 # FA 5 - LINEAR MODELS: Palmer Penguins
-# Reproducible analysis for Parts A-G
-# Run from the repository root: source("R/FA5_Linear_Models.R")
-# Base R only; no additional packages are required.
 # ============================================================
 
 options(stringsAsFactors = FALSE, scipen = 999)
