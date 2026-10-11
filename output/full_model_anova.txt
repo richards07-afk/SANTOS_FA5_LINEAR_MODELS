@@ -1,0 +1,5 @@
+                                                                                    df        sum_sq       mean_sq           F         PR(>F)
+C(species, Treatment(reference="Adelie"))                                          2.0  1.451902e+08  7.259511e+07  758.358072  1.540207e-123
+C(sex, Treatment(reference="female"))                                              1.0  3.709026e+07  3.709026e+07  387.459976   1.902273e-57
+C(species, Treatment(reference="Adelie")):C(sex, Treatment(reference="female"))    2.0  1.676557e+06  8.382784e+05    8.756997   1.973489e-04
+Residual                                                                         327.0  3.130263e+07  9.572669e+04         NaN            NaN

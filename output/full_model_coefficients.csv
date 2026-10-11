@@ -1,0 +1,7 @@
+,estimate
+Intercept,3368.8356164383576
+"C(species, Treatment(reference=""Adelie""))[T.Chinstrap]",158.37026591458567
+"C(species, Treatment(reference=""Adelie""))[T.Gentoo]",1310.9057628719856
+"C(sex, Treatment(reference=""female""))[T.male]",674.6575342465708
+"C(species, Treatment(reference=""Adelie""))[T.Chinstrap]:C(sex, Treatment(reference=""female""))[T.male]",-262.8928283642208
+"C(species, Treatment(reference=""Adelie""))[T.Gentoo]:C(sex, Treatment(reference=""female""))[T.male]",130.43715201685131
